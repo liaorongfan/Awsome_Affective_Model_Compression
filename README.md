@@ -353,7 +353,89 @@ A curated list of 76 papers focusing on model compression techniques in affectiv
 
 </details>
 
+## Stress Detection
+
+<details>
+  <summary>📝 Text Modality  </summary>
+  
+- **Compact BERT for Stress Detection from Social Media Posts**  
+  *Method:* Lightweight  
+  *Dataset:* Dreaddit  
+  [Link](https://arxiv.org/abs/2209.08453)
+
+</details>
+
+<details>
+  <summary> 🧠 Physiological Modality  </summary>
+
+- **Real-time Stress Detection using Quantized LSTM on Wearable PPG**  
+  *Method:* Quantization  
+  *Dataset:* WESAD  
+  [Link](https://www.mdpi.com/1424-8220/20/5/1380)
+
+- **TinyCNN-STRESS: Lightweight CNN for Stress Detection from ECG**  
+  *Method:* Lightweight  
+  *Dataset:* DRIVE  
+  [Link](https://www.sciencedirect.com/science/article/pii/S1746809421001297)
+
+- **Pruned Deep CNN for EEG-based Stress Detection**  
+  *Method:* Pruning  
+  *Dataset:* DEAP  
+  [Link](https://ieeexplore.ieee.org/document/10144557)
+
+- **Distilled BiLSTM for Wearable EEG-based Stress Monitoring**  
+  *Method:* Knowledge Distillation  
+  *Dataset:* WESAD  
+  [Link](https://www.sciencedirect.com/science/article/pii/S1746809423002881)
+
+</details>
+
+## Depression Detection
+
+<details>
+  <summary> 👁️ Visual Modality  </summary>
+
+- **Efficient Deep Learning Framework for Visual Depression Detection Using Micro-expressions**  
+  *Method:* Lightweight  
+  *Dataset:* DAIC-WOZ  
+  [Link](https://www.sciencedirect.com/science/article/pii/S2666827022000056)
+
+- **Distilled Video-based Model for Depression Severity Assessment**  
+  *Method:* Knowledge Distillation  
+  *Dataset:* AVEC  
+  [Link](https://arxiv.org/abs/2211.01067)
+
+</details>
 
 
+<details>
+  <summary> 🧠 Physiological Modality  </summary>
 
+- **Quantized LSTM for Wearable EEG Depression Detection**  
+  *Method:* Quantization  
+  *Dataset:* WESAD  
+  [Link](https://www.mdpi.com/1424-8220/20/5/1380)
 
+- **Lightweight CNN with HRV features for Depression Classification**  
+  *Method:* Lightweight  
+  *Dataset:* DREAMER  
+  [Link](https://www.sciencedirect.com/science/article/pii/S1746809421001297)
+
+- **Pruned EEGNet for Depression Risk Stratification**  
+  *Method:* Pruning  
+  *Dataset:* DEAP  
+  [Link](https://ieeexplore.ieee.org/document/10144557)
+
+</details>
+
+## Personality Assessment
+
+<details>
+  <summary> 📝 Text Modality   </summary>
+
+- **Distilled BERT Model for Efficient Personality Trait Detection**  
+  *Method:* Knowledge Distillation  
+  *Dataset:* Essays Dataset  
+  [Link](https://arxiv.org/abs/2209.08453)
+
+</details>
