@@ -1,4 +1,5 @@
-# Awsome_Affective_Model_Compression for automatic human behaviour understanding
+# Awsome Affective Model Compression 
+for automatic human behaviour understanding
 
 A curated list of 76 papers focusing on model compression techniques in affective computing, including tasks such as emotion recognition, expression recognition, stress detection, depression recognition, and personality detection. Categorized by task, modality, and compression method.
 
